@@ -11,3 +11,6 @@ Estudante de Análise e Desenvolvimento de Sistemas, desenvolvedor full stack Ja
 
 ### Linguagens
 [![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Almeida23&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contato
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'_alt='Linkedin'_height='30'>](https://www.linkedin.com/in/thiago-almeida-dev)
