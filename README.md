@@ -10,4 +10,4 @@ Estudante de Análise e Desenvolvimento de Sistemas, desenvolvedor full stack Ja
 [![Readme_Card](https://github-readme-stats.vercel.app/api/pin/?username=Thiago-Almeida23&repo=efood&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens
-[![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Almeida23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Almeida23&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
